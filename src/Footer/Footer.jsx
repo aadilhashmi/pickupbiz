@@ -16,6 +16,7 @@ export const Footer = () => {
             <h5>
                 Address: Peerburhan Nagar Nanded 431605
             </h5>
+        
         </footer>     
 
         </div>
